@@ -1,11 +1,11 @@
 # Site settings
-author: Malcom Fetus
-title: 
+author: Malcom F
+title: My journey in coding
 header-img: img/home-bg.png
 email: sora.vista@gmail.com
-copyright_name: Malcom Fetus
+copyright_name: Malcom F
 description: > # this means to ignore newlines until "baseurl:"
-  
+  A brief explanation of my experience of Ruby
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  Sorasky9
